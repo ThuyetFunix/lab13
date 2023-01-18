@@ -1,0 +1,21 @@
+.carousel-item {
+  height: 700px;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('images/banner1.jpg');
+  background-position: center;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('images/banner2.jpg');
+  background-position: center;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('images/banner3.jpg');
+  background-position: center;
+}
